@@ -1,7 +1,9 @@
 /**********************
 Program title: Vector Functions
 Date: 08/29/2023
-Description: This program creates a vector with random integers and performs various functions on the vector including sort, reverse, remove elements, and calculates the average. The vector will be displayed to the screen throughout the program to demonstrate how the vector changes throughout the program.
+Description: This program creates a vector with random integers and performs various functions on the vector including sort, 
+reverse, remove elements, and calculates the average. The vector will be displayed to the screen throughout the program to
+demonstrate how the vector changes throughout the program.
 **********************/
 
 #include "VectorHeader.h"
